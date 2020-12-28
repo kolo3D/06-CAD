@@ -17,7 +17,7 @@ GOOGLE DRIVE - 3D students https://drive.google.com/drive/folders/1X4FyiF4JrSol7
 3. Pipe frame
 ![ScrewedBox](/Pipes.JPG)
 4. Assembling (Slots, Hinges, Joints)
-![ScrewedBox](/Loader_02.JPG)
+![Joint](/Loader_02.JPG)
 
 ```
 ZAD0601 - Lego brick

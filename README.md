@@ -46,5 +46,7 @@ ZAD0604 - Teamwork: Excavator/Loader
 
 [3D Printed Nuts & Bolts Tolerances In Blender 2.83 | How to - Tutorial](https://youtu.be/qEtIACrEk-I)
 
+[Blender 2.8 Modeling a technical piece](https://www.youtube.com/watch?v=WSR6bVFe5LM)
+
 [CAT](https://www.comap.net/wp-content/uploads/2018/05/CAT-385.pdf)
 

@@ -11,10 +11,11 @@ GOOGLE DRIVE - 3D students https://drive.google.com/drive/folders/1X4FyiF4JrSol7
 ##Projects
 1. Lego
 ![Lego](/large_thumbnail.webp)
-2. Screwed Box
+2. Threaded Box [Grwinty metryczne](https://artykulytechniczne.pl/blog/tabela-gwintow-metrycznych-calowych-zunifikowanych-whitwortha/)
 ![ScrewedBox](/ScrewedBox.JPG)
 ![ScrewedBox](/ScrewedBox_.JPG)
-3. Threaded box [Grwinty metryczne](https://artykulytechniczne.pl/blog/tabela-gwintow-metrycznych-calowych-zunifikowanych-whitwortha/)
+3. Pipe frame
+![ScrewedBox](/Pipes.JPG)
 4. Assembling (Slots, Hinges)
 
 ```

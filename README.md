@@ -19,3 +19,7 @@ GOOGLE DRIVE - 3D students https://drive.google.com/drive/folders/1X4FyiF4JrSol7
 [Blender Tutorial | Modeling And Driving Gears of Different Sizes](https://youtu.be/qrjXJnUfyGk)
 
 [https://geargenerator.com/](https://geargenerator.com/)
+
+
+
+[https://3dwarehouse.sketchup.com/model/d760aeddb11067c2f68da5d02f99b84a/Actual-LEGO-Brick](Actual LEGO Brick)

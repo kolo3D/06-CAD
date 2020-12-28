@@ -38,6 +38,8 @@ ZAD0604 - Excavator/Loader
 
 [Tutorial: How to Model Threaded Objects, such as Containers with Screw-on caps, in Blender](https://youtu.be/Q6oNjV9a2KU)
 
+[OTVINTA/thread](http://otvinta.com/thread.html)
+
 [3D Printed Nuts & Bolts Tolerances In Blender 2.83 | How to - Tutorial](https://youtu.be/qEtIACrEk-I)
 
 [CAT](https://www.comap.net/wp-content/uploads/2018/05/CAT-385.pdf)

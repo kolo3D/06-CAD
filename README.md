@@ -21,11 +21,13 @@ GOOGLE DRIVE - 3D students https://drive.google.com/drive/folders/1X4FyiF4JrSol7
 ```
 ZAD0601 - Lego brick
 
-ZAD0602 - Gears
+ZAD0602 - Pipe frames (3,4,5,6,7,8 sides)
 
-ZAD0603 - Thread, Hinge
+ZAD0602 - Thread, Hinge
 
-ZAD0604 - Excavator/Loader
+ZAD0603 - Working Gears
+
+ZAD0604 - Teamwork: Excavator/Loader 
 ```
 
 ### Links

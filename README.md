@@ -20,6 +20,6 @@ GOOGLE DRIVE - 3D students https://drive.google.com/drive/folders/1X4FyiF4JrSol7
 
 [https://geargenerator.com/](https://geargenerator.com/)
 
-[http://pracownicy.uwm.edu.pl/wojsob/pliki/publikacje/rt-04.pdf](Rysunek techniczny)
+[Rysunek techniczny](http://pracownicy.uwm.edu.pl/wojsob/pliki/publikacje/rt-04.pdf)
 
-[https://3dwarehouse.sketchup.com/model/d760aeddb11067c2f68da5d02f99b84a/Actual-LEGO-Brick](Actual LEGO Brick)
+[Actual LEGO Brick](https://3dwarehouse.sketchup.com/model/d760aeddb11067c2f68da5d02f99b84a/Actual-LEGO-Brick)

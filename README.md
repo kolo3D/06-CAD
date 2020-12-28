@@ -11,11 +11,19 @@ GOOGLE DRIVE - 3D students https://drive.google.com/drive/folders/1X4FyiF4JrSol7
 ##Projects
 1. Lego
 ![Lego](/large_thumbnail.webp)
-2. Threaded box [Grwinty metryczne](https://artykulytechniczne.pl/blog/tabela-gwintow-metrycznych-calowych-zunifikowanych-whitwortha/)
-3. Laser cut plane
-4. Box with a hinge
-5. Hook (swipe)
-6. Assembling (Slots, Hinges)
+2. Box with a hinge
+3. Threaded box [Grwinty metryczne](https://artykulytechniczne.pl/blog/tabela-gwintow-metrycznych-calowych-zunifikowanych-whitwortha/)
+4. Assembling (Slots, Hinges)
+
+```
+ZAD0601 - Lego brick
+
+ZAD0602 - Gears
+
+ZAD0603 - Thread, Hinge
+
+ZAD0604 - Excavator
+```
 
 ### Links
 [Blender Tutorial | Modeling And Driving Gears of Different Sizes](https://youtu.be/qrjXJnUfyGk)
@@ -28,12 +36,3 @@ GOOGLE DRIVE - 3D students https://drive.google.com/drive/folders/1X4FyiF4JrSol7
 
 [Tutorial: How to Model Threaded Objects, such as Containers with Screw-on caps, in Blender](https://youtu.be/Q6oNjV9a2KU)
 
-```
-ZAD0601 - Lego brick
-
-ZAD0602 - Gears
-
-ZAD0603 - Thread, Hinge
-
-ZAD0604 - Excavator
-```

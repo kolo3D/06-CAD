@@ -24,7 +24,7 @@ ZAD0602 - Gears
 
 ZAD0603 - Thread, Hinge
 
-ZAD0604 - Excavator
+ZAD0604 - Excavator/Loader
 ```
 
 ### Links

@@ -36,3 +36,5 @@ ZAD0604 - Excavator
 
 [Tutorial: How to Model Threaded Objects, such as Containers with Screw-on caps, in Blender](https://youtu.be/Q6oNjV9a2KU)
 
+[3D Printed Nuts & Bolts Tolerances In Blender 2.83 | How to - Tutorial](https://youtu.be/qEtIACrEk-I)
+

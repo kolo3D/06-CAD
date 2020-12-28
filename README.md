@@ -10,6 +10,7 @@ GOOGLE DRIVE - 3D students https://drive.google.com/drive/folders/1X4FyiF4JrSol7
 
 ##Projects
 1. Lego
+![Lego](/large_thumbnail.webp)
 2. Shape box with lid
 3. Laser cut plane
 4. Box with a hinge

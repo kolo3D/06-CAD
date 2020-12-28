@@ -32,6 +32,7 @@ ZAD0604 - Teamwork: Excavator/Loader
 ```
 
 ### Links
+[Tutorial: How to Model Geometrically Correct (Involute) Gears in Blender](https://youtu.be/DqBOva04lcE)
 [Blender Tutorial | Modeling And Driving Gears of Different Sizes](https://youtu.be/qrjXJnUfyGk)
 
 [https://geargenerator.com/](https://geargenerator.com/)

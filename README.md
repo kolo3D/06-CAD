@@ -42,6 +42,8 @@ ZAD0604 - Teamwork: Excavator/Loader
 
 [Rysunek techniczny](http://pracownicy.uwm.edu.pl/wojsob/pliki/publikacje/rt-04.pdf)
 
+[CAD Style Precision Movement In Blender 2.83 | CAD Transform 0.0.8 Addon Update](https://youtu.be/TWEoZghkalc)
+
 [Actual LEGO Brick](https://3dwarehouse.sketchup.com/model/d760aeddb11067c2f68da5d02f99b84a/Actual-LEGO-Brick)
 
 [Tutorial: How to Model Threaded Objects, such as Containers with Screw-on caps, in Blender](https://youtu.be/Q6oNjV9a2KU)

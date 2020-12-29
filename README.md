@@ -32,6 +32,7 @@ ZAD0604 - Teamwork: Excavator/Loader
 ```
 
 ### Links
+[Koła zębate - Wiki](https://pl.wikipedia.org/wiki/Ko%C5%82o_z%C4%99bate)
 [Tutorial: How to Model Geometrically Correct (Involute) Gears in Blender](https://youtu.be/DqBOva04lcE)
 [Blender Tutorial | Modeling And Driving Gears of Different Sizes](https://youtu.be/qrjXJnUfyGk)
 
